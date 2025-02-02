@@ -141,7 +141,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## **Contact**
 For any questions or feedback, feel free to reach out:
 - **Name:** Moulali
-- **Email:** your-email@example.com
+- **Email:** skmoulali376@gmail.com
 - **GitHub:** [Moulali2004](https://github.com/Moulali2004)
 
 ---
